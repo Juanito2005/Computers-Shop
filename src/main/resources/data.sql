@@ -1,0 +1,1 @@
+INSERT INTO store (name, owner, storeTaxId) VALUES ('Tienda Electrónica Central', 'Juan Luis', '12345678ABCDEFG');
